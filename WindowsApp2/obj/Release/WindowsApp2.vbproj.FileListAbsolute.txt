@@ -1,0 +1,16 @@
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\bin\Release\WindowsApp2.exe.config
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\bin\Release\WindowsApp2.exe.manifest
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\bin\Release\WindowsApp2.application
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\bin\Release\WindowsApp2.exe
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\bin\Release\WindowsApp2.pdb
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\bin\Release\WindowsApp2.xml
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.Form1.resources
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.Resources.resources
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.vbproj.GenerateResource.cache
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.vbproj.CoreCompileInputs.cache
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.exe.manifest
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.application
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.exe
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.xml
+c:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.pdb
+C:\Users\Christiane\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.vbprojAssemblyReference.cache
